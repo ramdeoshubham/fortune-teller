@@ -6,7 +6,7 @@ It’s a magical little **fortune teller** written in [QBASIC](https://en.wikipe
 
 I’ve kept it here as a piece of personal history 💙 — simple, colorful, and full of childhood wonder.
 
-![screenshot](qb.png)
+![screenshot](screenshot.png)
 
 ---
 
@@ -25,7 +25,7 @@ Every run gives you a new "mystical" response.
 You can run it today using [QB64](https://www.qb64.dev/), a modern compiler for QBasic:
 
 ```bash
-qb64 fortune_teller.bas
+qb64 FORTUNE_TELLER.BAS
 ````
 
 Then launch the generated executable to see the magic ✨ 
